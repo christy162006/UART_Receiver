@@ -1,5 +1,6 @@
 module uart_receiver
 #(
+	
  parameter [7:0] CLKS_PER_BIT = 8'd87
 )
 (
